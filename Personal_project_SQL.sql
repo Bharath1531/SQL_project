@@ -1,4 +1,4 @@
-/*CREATE A TABLE WITH TABLE NAME AS student_details*/
+/*CREATE A TABLE WITH TABLE NAME AS student_detail*/
 
 create table student_detail
 (
